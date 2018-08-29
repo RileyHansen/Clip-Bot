@@ -1,0 +1,14 @@
+{
+  "name": "Clip Bot",
+  "description": "Reusable Component (Agent-Assisted Automation)",
+  "main": "ClipBot.xaml",
+  "dependencies": {},
+  "excludedData": [
+    "Private:*",
+    "*password*"
+  ],
+  "toolVersion": "18.2",
+  "projectVersion": "1.0.6804.38276",
+  "packOptions": {},
+  "runtimeOptions": {}
+}
